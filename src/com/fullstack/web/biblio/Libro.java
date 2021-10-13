@@ -8,6 +8,9 @@ public class Libro {
             this.autoreLibro=autoreLibro;
         }
 
+
+
+
     public String getTitoloLibro() {
         return titoloLibro;
     }
